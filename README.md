@@ -1,5 +1,5 @@
 # javascript_practice
 
-adithyar
-amrita vishwa vidapeetham
+<b>adithyar<b> <br>
+amrita vishwa vidapeetham<br>
 Mastering javascript with chai aur code bahiya..
